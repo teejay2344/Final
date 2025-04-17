@@ -1,0 +1,20 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "exam",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teejay2344"
+  },
+  "author": "tijani haruna",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "sass": "^1.86.3"
+  }
+}
